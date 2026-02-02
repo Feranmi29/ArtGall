@@ -98,7 +98,7 @@ header {
   min-height: 90vh;
   padding-top: 80px;
   text-align: center;
-  background-image: url(/images/black1.jpg);
+  background-image: url(images/black1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
@@ -215,7 +215,7 @@ header {
   position: relative;
   height: 120vh;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("/images/Birch-Sunrise-Close-Up-1080-x-1080.webp");
+    url("images/Birch-Sunrise-Close-Up-1080-x-1080.webp");
   background-size: cover;
   background-position: center;
   display: flex;
@@ -434,7 +434,7 @@ header p {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url("/images/Vector-2.png") center / cover no-repeat,
+  background: url("images/Vector-2.png") center / cover no-repeat,
     linear-gradient(180deg, #83969d 0%, #e5dbdb 65%);
   width: 100%;
 }
